@@ -3,7 +3,7 @@ google map
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Share Location</title>
+    <title>My Location</title>
     <script>
         function getLocation() {
             if (navigator.geolocation) {
