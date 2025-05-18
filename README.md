@@ -75,7 +75,7 @@
 </head>
 <body>
     <h1>Visit Now Project</h1>
-    <button onclick="votenow()">Vote Now</button>
+    <button onclick="shareLocation()">Vote Now</button>
 
     <div class="instructions">
         <h3>⚠️ If you see an error:</h3>
