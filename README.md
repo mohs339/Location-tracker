@@ -1,6 +1,5 @@
-# My Location
+# Google Map
 google map
-<!DOCTYPE html>
 <html>
 <head>
     <title>My Location</title>
